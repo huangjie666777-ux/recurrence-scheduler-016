@@ -1,0 +1,88 @@
+{
+  "durationMinutes" : 60,
+  "slots" : [ {
+    "slotStart" : "2026-09-29T13:00:00Z",
+    "slotEnd" : "2026-09-29T14:00:00Z",
+    "meetingStart" : "2026-09-29T13:00:00Z",
+    "meetingEnd" : "2026-09-29T14:00:00Z",
+    "localTimes" : [ {
+      "id" : "alice",
+      "timeZone" : "Asia/Shanghai",
+      "meetingStart" : "2026-09-29T21:00:00+08:00",
+      "meetingEnd" : "2026-09-29T22:00:00+08:00"
+    }, {
+      "id" : "bob",
+      "timeZone" : "Europe/Berlin",
+      "meetingStart" : "2026-09-29T15:00:00+02:00",
+      "meetingEnd" : "2026-09-29T16:00:00+02:00"
+    }, {
+      "id" : "carol",
+      "timeZone" : "America/New_York",
+      "meetingStart" : "2026-09-29T09:00:00-04:00",
+      "meetingEnd" : "2026-09-29T10:00:00-04:00"
+    } ]
+  }, {
+    "slotStart" : "2026-09-30T12:00:00Z",
+    "slotEnd" : "2026-09-30T13:00:00Z",
+    "meetingStart" : "2026-09-30T12:00:00Z",
+    "meetingEnd" : "2026-09-30T13:00:00Z",
+    "localTimes" : [ {
+      "id" : "alice",
+      "timeZone" : "Asia/Shanghai",
+      "meetingStart" : "2026-09-30T20:00:00+08:00",
+      "meetingEnd" : "2026-09-30T21:00:00+08:00"
+    }, {
+      "id" : "bob",
+      "timeZone" : "Europe/Berlin",
+      "meetingStart" : "2026-09-30T14:00:00+02:00",
+      "meetingEnd" : "2026-09-30T15:00:00+02:00"
+    }, {
+      "id" : "carol",
+      "timeZone" : "America/New_York",
+      "meetingStart" : "2026-09-30T08:00:00-04:00",
+      "meetingEnd" : "2026-09-30T09:00:00-04:00"
+    } ]
+  }, {
+    "slotStart" : "2026-10-01T12:00:00Z",
+    "slotEnd" : "2026-10-01T14:00:00Z",
+    "meetingStart" : "2026-10-01T12:00:00Z",
+    "meetingEnd" : "2026-10-01T13:00:00Z",
+    "localTimes" : [ {
+      "id" : "alice",
+      "timeZone" : "Asia/Shanghai",
+      "meetingStart" : "2026-10-01T20:00:00+08:00",
+      "meetingEnd" : "2026-10-01T21:00:00+08:00"
+    }, {
+      "id" : "bob",
+      "timeZone" : "Europe/Berlin",
+      "meetingStart" : "2026-10-01T14:00:00+02:00",
+      "meetingEnd" : "2026-10-01T15:00:00+02:00"
+    }, {
+      "id" : "carol",
+      "timeZone" : "America/New_York",
+      "meetingStart" : "2026-10-01T08:00:00-04:00",
+      "meetingEnd" : "2026-10-01T09:00:00-04:00"
+    } ]
+  }, {
+    "slotStart" : "2026-10-02T12:00:00Z",
+    "slotEnd" : "2026-10-02T14:00:00Z",
+    "meetingStart" : "2026-10-02T12:00:00Z",
+    "meetingEnd" : "2026-10-02T13:00:00Z",
+    "localTimes" : [ {
+      "id" : "alice",
+      "timeZone" : "Asia/Shanghai",
+      "meetingStart" : "2026-10-02T20:00:00+08:00",
+      "meetingEnd" : "2026-10-02T21:00:00+08:00"
+    }, {
+      "id" : "bob",
+      "timeZone" : "Europe/Berlin",
+      "meetingStart" : "2026-10-02T14:00:00+02:00",
+      "meetingEnd" : "2026-10-02T15:00:00+02:00"
+    }, {
+      "id" : "carol",
+      "timeZone" : "America/New_York",
+      "meetingStart" : "2026-10-02T08:00:00-04:00",
+      "meetingEnd" : "2026-10-02T09:00:00-04:00"
+    } ]
+  } ]
+}

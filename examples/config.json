@@ -1,0 +1,38 @@
+{
+  "queryStart": "2026-09-28T00:00:00Z",
+  "queryEnd": "2026-10-03T00:00:00Z",
+  "durationMinutes": 60,
+  "participants": [
+    {
+      "id": "alice",
+      "timeZone": "Asia/Shanghai",
+      "workDays": ["MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY"],
+      "workStart": "13:00",
+      "workEnd": "22:00",
+      "busy": [
+        { "start": "2026-09-29T12:00:00Z", "end": "2026-09-29T13:00:00Z" }
+      ]
+    },
+    {
+      "id": "bob",
+      "timeZone": "Europe/Berlin",
+      "workDays": ["MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY"],
+      "workStart": "09:00",
+      "workEnd": "17:00",
+      "busy": [
+        { "start": "2026-09-28T12:00:00Z", "end": "2026-09-28T13:00:00Z" },
+        { "start": "2026-09-28T13:00:00Z", "end": "2026-09-28T14:00:00Z" }
+      ]
+    },
+    {
+      "id": "carol",
+      "timeZone": "America/New_York",
+      "workDays": ["MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY"],
+      "workStart": "08:00",
+      "workEnd": "17:00",
+      "busy": [
+        { "start": "2026-09-30T13:00:00Z", "end": "2026-09-30T15:00:00Z" }
+      ]
+    }
+  ]
+}
